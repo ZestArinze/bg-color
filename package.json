@@ -1,0 +1,23 @@
+{
+  "name": "@arinzezest/bg-color",
+  "version": "1.0.0",
+  "description": "A demo on how to create and publish npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZestArinze/bg-color.git"
+  },
+  "keywords": [
+    "color",
+    "background"
+  ],
+  "author": "Arinze A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZestArinze/bg-color/issues"
+  },
+  "homepage": "https://github.com/ZestArinze/bg-color#readme"
+}
